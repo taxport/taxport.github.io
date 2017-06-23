@@ -29,11 +29,16 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-footer {
-     text-align: right;
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999;
+	color: blue;
+	text-align: right;
 }
+
 
 ul.posts { 
     margin: 20px auto 40px; 
